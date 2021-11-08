@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ambrusini
-- 👀 I’m interested in ... Learning web development design and android development 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on projects about web and Android development and hope to get my first job soon this means so much to my life 
-- 📫 How to reach me: explain as if you are teaching a six year old 
+- 👀 A full stack web developer
+- 🌱 always learning ...
+- 💞️ I’m looking to collaborate on projects about web and Android development and hope to get my first job soon this means so much to me 
+- 📫 How to reach me: whatsapp at +2349026477289
 
 <!---
 Ambrusini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
